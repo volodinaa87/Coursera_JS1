@@ -2,7 +2,7 @@
 // var assert = require('assert');
 //
 // // Подключаем свою функцию
-// var normalizeHashTags = require('./index.js');
+// var normalizeHashTags = require('./index_w2_ex2.js');
 //
 // assert.deepEqual(
 //     normalizeHashTags(['web', 'coursera', 'JavaScript', 'Coursera', 'script', 'programming']),
